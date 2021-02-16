@@ -30,7 +30,7 @@ Once the data is has transferred, the last step is to install the data in the se
 
 *server*
 ```bash
-(lisa_env) $ lisa intall hg38 oneshot ./hg38_1000_2.0.h5 --remove
+(lisa_env) $ lisa install hg38 oneshot ./hg38_1000_2.0.h5 --remove
 ```
 
 The LISA site package folder should now contain a directory called ```data``` with the downloaded dataset inside:
